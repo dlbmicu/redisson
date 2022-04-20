@@ -9,6 +9,8 @@ import org.redisson.core.RLock;
 import java.util.concurrent.TimeUnit;
 
 /**
+ *
+ * docker run -p 6379:6379 -d redis
  * @author zhouhao
  * @date 2022/3/28
  */
